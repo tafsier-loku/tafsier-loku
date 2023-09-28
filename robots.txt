@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsier-loku.github.io/sitemap.xml
